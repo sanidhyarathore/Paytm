@@ -9,3 +9,6 @@ The Technology I used are
 - MongoDB
 - ExpressJS
 - Mongoose
+- Zod
+- JWT Token
+-
